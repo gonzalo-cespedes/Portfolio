@@ -1,6 +1,6 @@
 Welcome to the Project Portfolio of Gonzalo Cespedes Paz
 
-#Design of a Suspension System for a BAJA SAE Vehicle
+# Design of a Suspension System for a BAJA SAE Vehicle
 
 ## Welcome to GitHub Pages
 
