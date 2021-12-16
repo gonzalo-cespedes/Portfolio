@@ -3,9 +3,9 @@ Welcome to the Project Portfolio of Gonzalo Cespedes Paz
 # Design of a Suspension System for a BAJA SAE Vehicle
 ### SAE INTERNATIONAL Student Event
 
-
+```
 ![Suspension CAD](/Portfolio/docs/assets/BAJA_CAD_Suspension.png)
-
+```
 
 # Redesign of an Experimental Ion Source for Studying Failure Mechanisms on Common Long Pulse Source Ion Source during Helium Operation
 ### Thesis Project
