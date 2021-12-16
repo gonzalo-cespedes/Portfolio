@@ -1,9 +1,30 @@
 Welcome to the Project Portfolio of Gonzalo Cespedes Paz
 
 # Design of a Suspension System for a BAJA SAE Vehicle
-## Header 2
-### International Competition
+### SAE INTERNATIONAL Student Event
 
+![RenderBAJA](/Portfolio/docs/assets/BAJA.png)
+
+# Redesign of an Experimental Ion Source for Studying Failure Mechanisms on Common Long Pulse Source Ion Source during Helium Operation
+### Thesis Project
+
+
+
+# Redesign of a Langmuir Probe for the CLPS Ion Source
+
+
+
+# Music Genre Detection Using Spectrograms and Neural Networks
+### Coursework
+
+
+
+# Adaptable Transtibial Prothesis Design for Children Using OpenSim and Ansys
+
+
+
+# Design and Development of a Thermoforming Machine
+ 
 
 
 ## Welcome to GitHub Pages
