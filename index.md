@@ -7,8 +7,10 @@ Suspension Lead for the RAKAN BAJA RACING team.
 
 ![Suspension CAD](/Portfolio/docs/assets/BAJA_CAD_Suspension.png){:style="float: left;margin-left: 7px;margin-right: 7px;margin-top: 7px;width: 288px;"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
 
+
+<br>
 ![Suspension Dynamic Analysis](/Portfolio/docs/assets/BAJA_CAD_LotusShark.png){:style="float: left;margin-left: 7px;margin-right: 7px;margin-top: 7px;width: 288px;"}
 
 
