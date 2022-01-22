@@ -1,4 +1,4 @@
-<link type="text/css" rel="Portfolio" href="/Portfolio/main.css" />
+<link type="text/css" rel="Portfolio" href="main.css" />
 
 Welcome to the Project Portfolio of Gonzalo Cespedes Paz
 
