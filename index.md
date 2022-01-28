@@ -19,8 +19,7 @@ Suspension Lead for the RAKAN BAJA RACING team.
 
 <br>
 ![Suspension Dynamic Analysis](/Portfolio/docs/assets/BAJA_CAD_LotusShark.png){:style="float: left;margin-left: 7px;margin-right: 7px;margin-top: 7px;width: 288px;"}
-
-
+<br>
 
 # Redesign of an Experimental Ion Source for Studying Failure Mechanisms on Common Long Pulse Source Ion Source during Helium Operation
 ### Thesis Project
